@@ -1,0 +1,15 @@
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\bin\Debug\Vod_Chop.exe.config
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\bin\Debug\Vod_Chop.exe
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\bin\Debug\Vod_Chop.pdb
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\obj\Debug\Vod_Chop.csprojAssemblyReference.cache
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\obj\Debug\MainWindow.g.cs
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\obj\Debug\App.g.cs
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\obj\Debug\Vod_Chop_MarkupCompile.cache
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\obj\Debug\Vod_Chop_MarkupCompile.lref
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\obj\Debug\MainWindow.baml
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\obj\Debug\Vod_Chop.g.resources
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\obj\Debug\Vod_Chop.Properties.Resources.resources
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\obj\Debug\Vod_Chop.csproj.GenerateResource.cache
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\obj\Debug\Vod_Chop.csproj.CoreCompileInputs.cache
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\obj\Debug\Vod_Chop.exe
+C:\00_REPOS\vod_chop\Vod_Chop\Vod_Chop\obj\Debug\Vod_Chop.pdb
